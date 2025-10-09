@@ -32,7 +32,6 @@ jobs:
 
 
 
-
 # name: "Build and push Super Mario Docker image with static tag to Docker Hub"
  
 # on:
