@@ -33,4 +33,5 @@ jobs:
           input: ./supermariolatestdockerimage.tar
           exit-code: '0'
           severity: 'CRITICAL,HIGH'
+          
     
